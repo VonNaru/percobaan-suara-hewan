@@ -1,0 +1,16 @@
+class hewan:
+    def suara(self):
+        print("suara hewan")
+    
+class buaya(hewan):
+    def suara(self):
+        print(" Hei manis udah punya pacara belum?")
+
+class ular(hewan):
+    def suara(self):
+        print("Udah punya 1 itupun kalo kamu mau")
+
+hewan_list =[hewan(),buaya(), ular()]
+
+for h in hewan_list:
+    h.suara()
