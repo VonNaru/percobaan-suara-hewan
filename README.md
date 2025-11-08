@@ -1,2 +1,3 @@
-# percobaan-suara-hewan
+# tugas pemegraman dasar
+
 percobaan menggunakan git hub
